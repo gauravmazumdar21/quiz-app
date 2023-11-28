@@ -10,7 +10,6 @@ This is a simple quiz application built using Node.js, Express.js, and MongoDB. 
 - [File Structure](#file-structure)
 - [Database Schema](#database-schema)
 - [Sample Questions](#sample-questions)
-- [License](#license)
 
 ## Requirements
 
